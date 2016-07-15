@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
+# Use font Wesome
+gem 'font-awesome-sass', '~> 4.6.2'
 #USe Bootstrap sass
 gem 'twitter-bootstrap-rails'
 # Use SCSS for stylesheets
